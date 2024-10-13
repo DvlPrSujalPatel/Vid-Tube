@@ -451,4 +451,6 @@ export {
   updateUserAvatar,
   updateUserCoverImage,
   changeCurrentPassword,
+  getUserChannelProfile,
+  getWatchHistory
 };
