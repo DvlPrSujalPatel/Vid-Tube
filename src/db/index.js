@@ -3,7 +3,7 @@ import { DB_NAME } from "../constants.js";
 import dotenv from "dotenv";
 
 dotenv.config({
-    path: "./.env",  // Adjust this if your .env file is in the project root
+    path: "./.env",
 });
 
 
